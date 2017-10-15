@@ -9,8 +9,8 @@ The linear program also considered the fare locking options so the customer can 
 ### Prerequisites
 
 You need to install following libraries in python in order to run the project: <br />
-networkx <br />
-gurobi <br />
+* networkx <br />
+* gurobi <br />
 
 ## Linear Program Formulation 
 
@@ -22,6 +22,6 @@ gurobi <br />
 * Network Dataset Construction and Simulation
 * Solving the Linear Program
 
-
+Go to "network simulation.ipynb" to find more details.
 
 
