@@ -14,7 +14,14 @@ gurobi <br />
 
 ## Linear Program Formulation 
 
-![Alt text]()
+![Alt text](Relatives/Full_LP.png)
+
+
+## Project Process
+* Airline Network Simulation
+* Network Dataset Construction and Simulation
+* Solving the Linear Program
+
 
 
 
