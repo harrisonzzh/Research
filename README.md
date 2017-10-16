@@ -17,7 +17,7 @@ You need to install following libraries in python in order to run the project: <
 ![Alt text](Relatives/Full_LP.png)
 
 
-## Project Process
+## Project Procedure
 * Airline Network Simulation
 * Network Dataset Construction and Simulation
 * Solving the Linear Program
